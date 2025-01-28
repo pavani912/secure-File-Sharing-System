@@ -3,7 +3,7 @@
 
 ### Backend Assessment for EZ Works
 This project is a secure file-sharing system implemented as part of the backend engineer assessment for **EZ Works**.
-You can find the live project at: [TODO](#) (This will be taken down after the assessment)<br>
+
 It provides an API for secure file upload, download, and management between two types of users: Operation Users and Client Users.
 <hr>
 
@@ -64,7 +64,7 @@ Make sure you are using `Python 3.12` or later. <br>
 These instructions will help you get set up with a local development environment
 1. Clone the repository:
    ```shell
-   git clone https://github.com/yashanksingh/Secure-File-Sharing-System.git
+   git clone https://github.com/pavani912/secure-File-Sharing-System.git
    cd Secure-File-Sharing-System
    ```
 2. Set up a virtual environment:
